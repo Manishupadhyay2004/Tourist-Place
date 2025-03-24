@@ -1,5 +1,4 @@
 # Jodhpur Tourist Places 🌍
-![image](https://manishupadhyay2004.github.io/Tourist-Place/)
 
 A simple webpage showcasing the beautiful tourist attractions of Jodhpur, built using HTML and CSS.
 
